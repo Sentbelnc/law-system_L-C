@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>법령 관리 시스템</title>
+</head>
+<body>
+  <h1>📚 법령 관리 시스템</h1>
+  <ul>
+    <li><a href="law/labor-law.html">근로기준법</a></li>
+  </ul>
+</body>
+</html>
